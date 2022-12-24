@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_coordinates_the_end.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_csiklandozas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_first_task_r_o_y_g_b_i_v.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_fourth_task_invisible_ink.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_kieg_sakk.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_kiss.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/activity_second_task_irodalom.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/work/AndroidStudioProjects/KedvesKisKldets2/app/src/main/res/layout/third_task.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

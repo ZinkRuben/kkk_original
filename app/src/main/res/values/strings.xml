@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kedves Kis Küldetés</string>
+    <string name="firstTaskButton">Check</string>
+    <string name="messageWithLink"><a href="https://goo.gl/maps/vCCaKR7nMHzg3Lva9">Open in GoogleMaps</a></string>
+</resources>
